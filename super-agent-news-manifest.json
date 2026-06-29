@@ -1,0 +1,30 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[forbes.com](https://www.forbes.com/sites/ai/2026/06/27/gemini-35-flash-computer-use-everything-we-know/)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers/)",
+    "[bwbusinessworld.com](https://www.bwbusinessworld.com/article/60-Of-Indian-Consumers-Want-Personal-AI-Agents-Highest-In-Asia-Pacific-Adobe-Report/)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com/business/six-in-10-indians-want-personal-ai-agents-highest-in-asia-pacific-report-finds)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[techcouver.com](https://techcouver.com/2026/06/12/vancouver-ai-startup-orchid-brings-the-world-cup-to-your-messages/)"
+  ],
+  "design_plan": "rng_seed=42; audience=AIDA_check_pass; hero_max_width=1120px; bento_density=grid-auto-flow:dense verified; competitors_label_sweep=Folk,Orchids,Siri,ChatGPT,Gemini,Grok; button_contrast=AA_pass",
+  "generated_at": "2026-06-29T21:33:34.453734+00:00",
+  "headline": "Super vs Orchids \u2014 Personal AI Agents Compared",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "A fair comparison for people evaluating Orchids. Orchids explores lightweight, message-first AI assistants. Super is built for durable computer-operating agents with a reusable computer-use cache, making repeated workflows faster and cheaper over time."
+}
